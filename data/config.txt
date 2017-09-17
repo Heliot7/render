@@ -1,0 +1,13 @@
+# CONFIG FILE WITH PROGRAM PATHS
+
+# Folder of synthetic data (Collada: *.dae)
+PATH_MODEL Z:/PhD/Data/Syn
+
+# Folder with background images (usually *.png)
+PATH_BACKGROUND Z:/PhD/Data/Real/Car/KITTI/test/images
+
+# Folder where object images are saved
+PATH_OUTPUT Z:/PhD/Data/Syn
+
+# Folder with .obj files
+PATH_OBJ Z:/PhD/Code/Research/Render/data/models

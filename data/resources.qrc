@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/default.frag</file>
+        <file>shaders/default.vert</file>
+        <file>images/open.png</file>
+        <file>shaders/phong.frag</file>
+        <file>shaders/phong.vert</file>
+        <file>shaders/base.frag</file>
+        <file>shaders/base.vert</file>
+        <file>shaders/depth.frag</file>
+        <file>shaders/depth.vert</file>
+        <file>shaders/ortho.frag</file>
+        <file>shaders/ortho.vert</file>
+        <file>shaders/background.frag</file>
+        <file>shaders/background.vert</file>
+        <file>config.txt</file>
+        <file>shaders/labelling.frag</file>
+        <file>shaders/labelling.vert</file>
+        <file>models/Sphere.obj</file>
+        <file>models/Cylinder.obj</file>
+    </qresource>
+</RCC>
